@@ -1,22 +1,22 @@
-# Simple Calculator
+# 🖩 Simple Calculator
 
 A **basic calculator** implemented in Python. This version does not include a user interface; it contains simple function definitions for arithmetic operations that can be imported and used in other scripts or executed directly in the terminal for quick tests.
 
-## Features
+## 🚀 Features
 
 ✅ Addition  
 ✅ Subtraction  
 ✅ Multiplication  
 ✅ Division
 
-## Files
+## 📁 Files
 
 | File | Description |
 |---|---|
 | `calculator.py` | Contains function definitions for add, subtract, multiply, and divide |
 
 
-## 🚀 Usage
+## 📝 Usage
 
 You can import the functions in your Python scripts:
 
